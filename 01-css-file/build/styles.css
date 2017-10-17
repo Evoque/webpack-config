@@ -1,0 +1,11 @@
+
+
+h1 {
+    color: green;
+    background:  url(imgs/base.png);
+}
+div {
+    height: 100px;
+    border: 2px solid lightblue;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJEAAAAkCAYAAACJ39jlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB+SURBVHhe7dKxDYAwAAPBwNZZIGuDFGUB+Pausdz/Ned8BgQ7orXWufDdfRZ+ExGZiMhERCYiMhGRiYhMRGQiIhMRmYjIREQmIjIRkYmITERkIiITEZmIyEREJiIyEZGJiExEZCIiExGZiMhERCYiMhGRiYhMRGQiIhMR0RgvQhQGrd5UrOgAAAAASUVORK5CYII=)
+}
